@@ -65,7 +65,7 @@ function App() {
               }
             />
             <Route
-              path="/Text-analyzer"
+              path="/Text-analyzer/"
               element={
                 <Textform
                   heading={
