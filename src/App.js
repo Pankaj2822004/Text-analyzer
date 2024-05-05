@@ -69,7 +69,7 @@ function App() {
               element={
                 <Textform
                   heading={
-                    "MYWEBS - character count , wordcount , cleartext, copytext , remove Extra spaces"
+                    "MYWEB - character count , wordcount , cleartext, copytext , remove Extra spaces"
                   }
                   mode={mode}
                   showAlert={showAlert}
